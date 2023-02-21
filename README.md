@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyolya95&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyolya95&layout=compact)
+<img align="center" width="600px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyolya95&langs_count=8&layout=compact" />
+<img align="center" width="600px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lyolya95&show_icons=true" />
+
